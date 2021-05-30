@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tamerefe
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Ruby, Python, Javascript
-- 💞️ I’m looking to collaborate on Computer Games , Machine Learning or Websites
+- 💞️ I’m looking to collaborate on Application Development, Machine Learning Systems or Websites
 - 📫 How to reach me; tamerakipek@gmail.com
 
 <!---
