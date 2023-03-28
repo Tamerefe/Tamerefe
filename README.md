@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TamerAkipek
+- 👋 Hi, I’m Tamer Akipek
 - 👀 I’m interested in Coding
 - 🏫 I'm studying Software Engineering at Eastern Mediterranean University.
 - 🌱 I’m currently learning Ruby, Python, Javascript
