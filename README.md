@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamer Akipek</h1>
-<h3 align="left">Software Engineer with a History buff | Founder of Dolliet</h3>
+<h3 align="left">Software Engineer with a History buff | CTO of Unschooledd | Founder of Dolliet</h3>
 
 - 👀 I’m interested in Coding
 - 🏫 I'm studying Software Engineering at Eastern Mediterranean University.
