@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tamer Akipek</h1>
-<h3 align="left">Software Engineer with a History buff | Founder of Dolliet</h3>
+<h3 align="left">Software Engineer with a History buff | Founder of Dolliet | Estiem LG Famagusta</h3>
 
 - 👀 I’m interested in Coding
 - 🏫 I'm studying Software Engineering at Eastern Mediterranean University.
 - 🌱 I’m currently learning Java, Python, C++
-- 💞️ I’m looking to collaborate on Application Development, Machine Learning Systems and Websites
-- 📫 How to reach me; tamerakipek@gmail.com
+- 💞️ I’m looking to collaborate on Development of Computer and Mobile Applications
+- 📫 How to reach me: tamerakipek@gmail.com
 
 <!---
 Tamerefe/Tamerefe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
